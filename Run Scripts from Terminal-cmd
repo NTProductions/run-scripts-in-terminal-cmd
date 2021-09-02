@@ -1,0 +1,5 @@
+// inline scripts:
+AfterFX.com -noui -s "alert('test')"
+
+// script files:
+AfterFX.com -noui -r "C:\Users\Nate\Desktop\test.jsx"
